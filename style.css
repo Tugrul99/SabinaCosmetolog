@@ -80,7 +80,7 @@ h4{
 }
 
 .header{
-    background-image: url(/img/12717.jpg);
+    background-image: url(./img/12717.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
